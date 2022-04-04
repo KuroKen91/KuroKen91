@@ -1,6 +1,6 @@
 ## Hi, I'm Ken 👋
 
-I'm recent coding boot camp graduate currently employed at Rakuten! 
+A coding boot camp graduate currently employed at Rakuten! 
 Outside of work, I'm a lover of exercise, cycling, finance, computer hardware, video games and all things entertainment! 😄
 
 ## Skillset
