@@ -9,7 +9,6 @@ Outside of work, I'm a lover of exercise, cycling, finance, computer hardware, v
       <td>Strong</td>
       <td>
         <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-000?&logo=javascript" />
-        <img alt="Swift" src="https://img.shields.io/badge/-Swift-000?&logo=swift" />
         <img alt="Vue" src="https://img.shields.io/badge/-Vue-000?logo=vue.js" />
         <img alt="HTML" src="https://img.shields.io/badge/-HTML-000?logo=html5" />
         <img alt="CSS" src="https://img.shields.io/badge/-CSS-000?logo=css3" />
@@ -31,9 +30,9 @@ Outside of work, I'm a lover of exercise, cycling, finance, computer hardware, v
     </tr>
     <tr>
       <td>Learning</td>
+      <td>
         <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-000?&logo=typescript" />
         <img alt="NextJS" src="https://img.shields.io/badge/-NextJS-000?&logo=next.js" />
-      <td>
       </td>
     </tr>
   </tbody>
